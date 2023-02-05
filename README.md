@@ -17,8 +17,13 @@ Note: A floor cannot be assembled in the building until all floors larger in siz
 As a friend he wants you to build a small program that will help him analyze the construction process, to avoid manual work and errors.
 
 
+
+
+
+
 Question 2
 
 You are working in an MNC, which manages the Transactions, where only BST is used as a Data Structure. The company stores all the data of transactions in BST such that the tree is always a complete BST.
 A new business requirement has arrived where the BST should not contain any left node.
 You are required to modify the existing BST and display the node values present in ascending order.
+    
