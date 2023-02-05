@@ -1,7 +1,7 @@
 # G2B4_DSA_GradedProject2
 
 
-Question 1 
+**Question 1 **
 
 Your friend is a chief architect, who is working on building a skyscraper, in Mumbai. The construction is in such a way that the floors will be constructed in other factories and they will be assembled. All the sizes will be distinct.
 
@@ -21,7 +21,9 @@ As a friend he wants you to build a small program that will help him analyze the
 
 
 
-Question 2
+
+
+**Question 2**
 
 You are working in an MNC, which manages the Transactions, where only BST is used as a Data Structure. The company stores all the data of transactions in BST such that the tree is always a complete BST.
 A new business requirement has arrived where the BST should not contain any left node.
